@@ -13,4 +13,6 @@ h1{
 pre{
     font-size: 20px;
     /*text-align: center;*/
+    white-space: pre-line;
+    word-wrap: break-word;
 }
