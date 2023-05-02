@@ -23,7 +23,7 @@ h1{
 }
 @media(max-width:576px)
     {
-        .card-1
+        .main-sec
         {
             max-width:100%;
             text-align:center;
