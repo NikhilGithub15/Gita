@@ -12,6 +12,7 @@ h1{
 }
 .main-sec{
     display:flex;
+    max-width: 100%;
 }
 .card-1{
     width:16.66%;    /*100/16=16.66 */
