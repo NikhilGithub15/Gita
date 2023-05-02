@@ -10,17 +10,17 @@ h1{
     background-color:rgb(226, 100, 86);
     color: white;
 }
-/*.main-sec{
+.main-sec{
     display:flex;
     max-width: 100%;
-}*/
-/*.card-1{
+}
+.card-1{
     width:16.66%;    100/16=16.66 
     padding: 20px;
     margin:20px;
     text-align: center;
     background-color: rgb(242, 234, 234);
-} */
+} 
 @media(max-width:800px)
     {
         .main-sec
@@ -31,7 +31,10 @@ h1{
             border: 1px solid black;
             display: flex;
             flex-direction: column;
-        }
+        }   
+}
+@media(max-width:800px)
+    {
         .card-1
         {
             padding: 20px;
@@ -39,7 +42,6 @@ h1{
             text-align: center;
             background-color: rgb(242, 234, 234);
         }
-            
 }
 .card-1:hover
 {
