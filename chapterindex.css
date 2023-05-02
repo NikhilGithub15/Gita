@@ -25,10 +25,12 @@ h1{
     {
         .card-1
         {
-            padding:0px;
-            margin:0px;
-            display:flex;
-            flex-direction:column-reverse;
+            max-width:100%;
+            text-align:center;
+            margin:20px;
+            border: 1px solid black;
+            display: flex;
+            flex-direction: column;
         }
 }
 .card-1:hover
