@@ -24,12 +24,13 @@ h1{
 } */
 a:hover
 {
-    background-color: red;
-    color: rgb(244, 238, 238);
+    /*background-color: whitesmoke;*/
+    color: black;
     cursor: pointer;
 }
 
 a{
     text-decoration: none;
-    color:red;
+    color:black;
+    font-size: 17px;
 }
