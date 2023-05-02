@@ -11,9 +11,10 @@ h1{
     color: white;
 }
 pre{
-    font-size: 20px;
-    /*text-align: center;*/
     white-space: pre-wrap;
-    word-break: break-all;
+    font-size: 20px;
+    max-width:100%;
+    /*text-align: center;*/
+    /*word-break: break-all;*/
 }
 
