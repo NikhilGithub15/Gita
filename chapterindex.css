@@ -37,6 +37,7 @@ h1{
     {
         .card-1
         {
+            width:100%;
             padding: 20px;
             margin:20px;
             text-align: center;
