@@ -43,3 +43,9 @@ ul {
     padding: 20px;
     margin: 10px;
 }
+@media(max-width:750px)
+    {
+        img{
+            width:100%;
+        }
+}
