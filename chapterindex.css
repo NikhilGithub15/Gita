@@ -17,11 +17,11 @@ h1{
 .card-1{
     display: grid;  
     grid-gap: 5px;  
-    grid-template-columns: repeat(auto-fit, 100px);
-    grid-template-rows: repeat(2, 100px); 
+    grid-template-columns: repeat(auto-fit,100px);
+    grid-template-rows: repeat(3, 100px); 
     /*width:16.66%;*/    /*100/16=16.66 */
     padding: 20px;
-    margin:20px;
+    /*margin:20px;*/
     text-align: center;
     background-color: rgb(242, 234, 234);
     
