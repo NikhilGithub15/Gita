@@ -14,14 +14,14 @@ h1{
     display:flex;
     max-width: 100%;
 }*/
-.card-1{
-    width:16.66%;    /*100/16=16.66 */
+/*.card-1{
+    width:16.66%;    100/16=16.66 
     padding: 20px;
     margin:20px;
     text-align: center;
     background-color: rgb(242, 234, 234);
-}
-@media(max-width:576px)
+} */
+@media(max-width:800px)
     {
         .main-sec
         {
