@@ -1,8 +1,9 @@
 body{
-    background-image: url("media/bck.jpg");
+    /*background-image: url("media/bck.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;  
-    background-size: cover;
+    background-size: cover;*/
+    background-color:white;
 }
 
 h1{
